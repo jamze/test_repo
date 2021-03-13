@@ -4,4 +4,4 @@ test w przegladarce
 
 do fetcha test
 
-test2 na kompie
+test2 na kompie 2
