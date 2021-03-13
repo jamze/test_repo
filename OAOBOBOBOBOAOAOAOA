@@ -1,0 +1,41 @@
+[33mcommit ef5b90fe3b5d4b5efb48d08aa6474487a0c0583d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster_test[m[33m, [m[1;32mmaster_merge[m[33m)[m
+Author: Dariusz <daro1392@gmail.com>
+Date:   Sat Mar 13 14:30:31 2021 +0100
+
+    merge commit.
+    
+    Signed-off-by: Dariusz <daro1392@gmail.com>
+
+[33mcommit a9c3290ff25f0ecfdd6148ae7d17397f0cc1bda5[m
+Author: Dariusz <daro1392@gmail.com>
+Date:   Sat Mar 13 14:24:31 2021 +0100
+
+    Signed-off-by: Dariusz <daro1392@gmail.com>
+
+[33mcommit b24353c660ff2bf3f9fb07ba5e8301902376217e[m
+Author: Dariusz <daro1392@gmail.com>
+Date:   Sat Mar 13 14:22:10 2021 +0100
+
+    Signed-off-by: Dariusz <daro1392@gmail.com> test
+
+[33mcommit b7a14d48edee5fb8dfb35c504f01d082b6c9d5c6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: jamze <66332914+jamze@users.noreply.github.com>
+Date:   Sat Mar 13 13:08:56 2021 +0100
+
+    Update test.txt
+
+[33mcommit 6ce2d1ea7f4f261aabb846e16a635e97737f84c0[m
+Author: jamze <66332914+jamze@users.noreply.github.com>
+Date:   Sat Mar 13 13:05:52 2021 +0100
+
+    Update test.txt
+    
+    edycja w przegladarce
+
+[33mcommit a7dbc14d62e29b6430845f4032d4af09c53efc42[m
+Author: Dariusz <daro1392@gmail.com>
+Date:   Sat Mar 13 13:04:19 2021 +0100
+
+    Add test.txt
+    
+    Signed-off-by: Dariusz <daro1392@gmail.com>
